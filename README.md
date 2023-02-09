@@ -3,11 +3,7 @@
 
 <h2>Tech Skills</h2>
 
-<img src="./Assets/CSharp.png alt="C Charp Logo" height=64px/>
-<img src="./Assets/github.png" alt="Github Logo" height=64px/>
-<img src="./Assets/python.png" alt="Python Logo" height=64px/>
-<img src="./Assets/reactlogo.png" alt="React Logo" height=64px/>
-<img src="./Assets/uipath.png" alt="UiPath Logo" height=64px/>
+<img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo.png" alt="React Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/>
 
 📫 How to reach me: spencerjcode@gmail.com
 
