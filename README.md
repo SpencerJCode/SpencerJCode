@@ -3,9 +3,13 @@
 
 <h2>Tech Skills</h2>
 
-<img src=./Assets/img/Logos/png/CSharp.png alt="C Charp Logo" height=64px/><img src="./Assets/img/Logos/png/Github.png" alt="Github Logo" height=64px/>
-<img src="./Assets/img/Logos/png/Python.png" alt="Python Logo" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="React Logo" height=64px/>
-<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/><img src="./Assets/img/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
+<img src=./Assets/CSharp.png alt="C Charp Logo" height=64px/>
+<img src="./Assets/github.png" alt="Github Logo" height=64px/>
+<img src="./Assets/python.png" alt="Python Logo" height=64px/>
+<img src="./Assets/reactlogo.png" alt="React Logo" height=64px/>
+<img src="./Assets/uipath.png" alt="UiPath Logo" height=64px/>
+
+📫 How to reach me: spencerjcode@gmail.com
 
 <!--
 **SpencerJCode/SpencerJCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
