@@ -2,7 +2,7 @@
 <a href="https://app.daily.dev/SpencerJCode"><img src="devcard.svg" width="300" alt="Spencer's Dev Card"/></a>
 <h2>Tech Skills</h2>
 
-<img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo.png" alt="React Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/>
+<img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo.png" alt="React Logo" height=64px/><img src=assets/js.png alt="JavaScript Logo" height=64px/><img src=assets/css.png alt="CSS Logo" height=64px/><img src=assets/html.png alt="HTML Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/><img src="assets/studio.png" alt="UiPath Studio Logo" height=64px/>
 
 📫 How to reach me: spencerjcode@gmail.com
 
