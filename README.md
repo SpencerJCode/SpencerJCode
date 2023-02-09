@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/SpencerJCode"><img src="https://github.com/SpencerJCode/SpencerJCode/devcard.svg" width="300" alt="Spencer's Dev Card"/></a>
+<a href="https://app.daily.dev/SpencerJCode"><img src="devcard.svg" width="300" alt="Spencer's Dev Card"/></a>
 <h2>Tech Skills</h2>
 
 <img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo.png" alt="React Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/>
