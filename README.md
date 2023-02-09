@@ -3,7 +3,7 @@
 
 <h2>Tech Skills</h2>
 
-<img src=./Assets/CSharp.png alt="C Charp Logo" height=64px/>
+<img src="./Assets/CSharp.png alt="C Charp Logo" height=64px/>
 <img src="./Assets/github.png" alt="Github Logo" height=64px/>
 <img src="./Assets/python.png" alt="Python Logo" height=64px/>
 <img src="./Assets/reactlogo.png" alt="React Logo" height=64px/>
