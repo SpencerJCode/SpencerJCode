@@ -1,5 +1,9 @@
-
-<a href="https://app.daily.dev/SpencerJCode"><img src="devcard.svg" width="300" alt="Spencer's Dev Card"/></a>
+<h2>Media Presence</h2>
+<a href="https://app.daily.dev/SpencerJCode"><img src="devcard.svg" height = 330 width="220" alt="Spencer's Dev Card"/></a><hr>
+<a href="https://www.linkedin.com/in/spencer-j-6ba942198/"><img src="assets/linkedinlogo.png" alt = "LinkedIn Logo" height = 80px width = 80px/></a>
+<a href="https://sjrpaportfolio.wordpress.com/"><img src="assets/wordpress.png" alt = "Wordpress Logo" height = 80px width = 80px/></a>
+<a href="https://edabit.com/user/ZCyWFjrdEvt8szfCq"><img src="assets/edabit.png" alt = "Edabit Logo" height = 80px width = 80px/></a>
+<a href="https://discord.gg/iloveautomation"><img src="assets/iloveautomation.png" alt = "I Love Automation Discord" height = 80px width = 80px/></a>
 <h2>Tech Skills</h2>
 
 <img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo1.png" alt="React Logo" height=64px/><img src=assets/js1.png alt="JavaScript Logo" height=64px/><img src=assets/css.png alt="CSS Logo" height=64px/><img src=assets/html.png alt="HTML Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/>
