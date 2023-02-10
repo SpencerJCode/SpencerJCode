@@ -12,13 +12,14 @@
 
 <img src="assets/studio.png" alt="UiPath Studio Logo" height=64px/><img src="assets/vscode.png" alt="Visual Studio Logo" height=64px/><img src="assets/salesforce.png" alt="Salesforce Logo" height=64px/><img src="assets/kraken.png" alt="Gitkraken Logo" height=64px/><img src="assets/microsoft.png" alt="Microsoft Office Logo" height=64px/>
 
+<h2>Professional Certifications</h2>
+<a href="https://www.uipath.com/learning/certification"><img src="assets/uiard.png" alt = "UiARD" height = 80px width = 80px/></a>
+
 📫 How to reach me: spencerjcode@gmail.com
 
-📖 My RPA portfolio: https://sjrpaportfolio.wordpress.com/
+🥋 Enrolled in <a href=https://www.codingdojo.com>Coding Dojo</a>, est. graduation early June
 
-🔭 Enrolled in <a href=https://www.codingdojo.com>Coding Dojo</a>, est. graduation early June
-
-🌱 Currently learning algos
+🌱 Currently learning about AI integration with RPA/Software development
 
 ❤️ Passionate about building tools that solve problems and help people
 
@@ -26,19 +27,6 @@
 
 ⚡ Fun fact: There was a time in my life where I was floating in the open ocean and being circled by a shark
 
+💼 Looking for full-time employment in RPA/Software development
 
 
-<!--
-**SpencerJCode/SpencerJCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
