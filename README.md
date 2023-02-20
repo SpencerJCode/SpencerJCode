@@ -10,7 +10,7 @@
 
 <h2>Tools and Apps</h2>
 
-<img src="assets/studio.png" alt="UiPath Studio Logo" height=64px/><img src="assets/vscode.png" alt="Visual Studio Logo" height=64px/><img src="assets/salesforce.png" alt="Salesforce Logo" height=64px/><img src="assets/kraken.png" alt="Gitkraken Logo" height=64px/><img src="assets/microsoft.png" alt="Microsoft Office Logo" height=64px/>
+<a href="https://www.uipath.com/product/studio"><img src="assets/studio.png" alt="UiPath Studio Logo" height=64px/></a><a href="https://code.visualstudio.com/"><img src="assets/vscode.png" alt="Visual Studio Logo" height=64px/></a><a href="https://www.salesforce.com/"><img src="assets/salesforce.png" alt="Salesforce Logo" height=64px/></a><a href="https://www.gitkraken.com/><img src="assets/kraken.png" alt="Gitkraken Logo" height=64px/></a><a href="https://www.office.com/"><img src="assets/microsoft.png" alt="Microsoft Office Logo" height=64px/></a>
 
 <h2>Professional Certifications</h2>
 <a href="https://www.uipath.com/learning/certification"><img src="assets/uiard.png" alt = "UiARD" height = 80px width = 80px/></a>
