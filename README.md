@@ -6,7 +6,7 @@
 <a href="https://discord.gg/iloveautomation"><img src="assets/iloveautomation.png" alt = "I Love Automation Discord" height = 80px width = 80px/></a>
 <h2>Tech Skills</h2>
 
-<img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo1.png" alt="React Logo" height=64px/><img src=assets/js1.png alt="JavaScript Logo" height=64px/><img src=assets/css.png alt="CSS Logo" height=64px/><img src=assets/html.png alt="HTML Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/>
+<img src=assets/Csharp.PNG alt="C Charp Logo" height=64px/><img src="assets/github.png" alt="Github Logo" height=64px/><img src="assets/python.png" alt="Python Logo" height=64px/><img src="assets/reactlogo1.png" alt="React Logo" height=64px/><img src=assets/js1.png alt="JavaScript Logo" height=64px/><img src=assets/css.png alt="CSS Logo" height=64px/><img src=assets/html.png alt="HTML Logo" height=64px/><img src="assets/uipath.PNG" alt="UiPath Logo" height=64px/> <a href="[https://www.uipath.com/product/studio](https://flask.palletsprojects.com/en/2.2.x/)"><img src="assets/flask.png" alt="Flask Icon" height=64px/></a>
 
 <h2>Tools and Apps</h2>
 
