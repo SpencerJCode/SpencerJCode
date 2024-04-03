@@ -15,7 +15,7 @@
 <h2>Professional Certifications</h2>
 <a href="https://www.uipath.com/learning/certification"><img src="assets/uiard.png" alt = "UiARD" height = 80px width = 80px/></a>
 
-📫 How to reach me: spencerjcode@gmail.com
+📫 How to reach me: spencer@goshen.family
 
 ❤️ Passionate about building tools that solve problems and help people
 
